@@ -67,7 +67,7 @@ def start_client():
 start_client()
 
 ```
-## OUPUT
+## OUTPUT
 # SERVER
 
 ![Screenshot 2024-03-13 151650](https://github.com/Pradeepkumar-2005/3b_CHAT_USING_TCP_SOCKETS/assets/147474038/c54cc30f-87a2-4b86-a5a0-90369b8a703b)
